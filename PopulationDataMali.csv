@@ -1,0 +1,54 @@
+﻿Location,District,Cercle,Location frenchname,Ménages,Population résidente,Population résidente2 (Hommes),Population résidente (Femelles)
+ML-1-KC,Kayes,Kayes Cercle,Cercle De Kayes,80763.00,513172,254777,258395
+ML-1-BA,Kayes,Bafoulabé,Cercle De Bafoulabe,35266,233647,119040,114607
+ML-1-KI,Kayes,Kita,Cercle De Kita,62129,432531,220318,212213
+ML-1-DI,Kayes,Diéma,Cercle De Diema,32950,211772,109282,102490
+ML-1-KE,Kayes,Keniéba,Cercle De Kenieba,33295,197050,98757,98293
+ML-1-NI,Kayes,Nioro,Cercle De Nioro,35424,228926,116887,112039
+ML-1-YE,Kayes,Yélimane,Cercle De Yelimane,25915,176517,91371,85146
+ML-2-KC,Koulikoro,Koulikoro Cercle,Cercle De Koulikoro,33068,210611,105080,105531
+ML-2-BA,Koulikoro,Banamba,Cercle De Banamba,28278,191005,95901,95104
+ML-2-DI,Koulikoro,Dioïla,Cercle De Dioila,75028,488937,248626,240311
+ML-2-KA,Koulikoro,Kangaba,Cercle De Kangaba,14400,100398,50696,49702
+ML-2-KI,Koulikoro,Kati,Cercle De Kati,144065,956753,479436,477317
+ML-2-KO,Koulikoro,Kolokani,Cercle De Kolokani,32619,232500,118844,113656
+ML-2-NA,Koulikoro,Nara,Cercle De Nara,37988,241904,122464,119440
+ML-3-SC,Sikasso,Sikasso Cercle,Cercle De Sikasso,112798,734984,373772,361212
+ML-3-BO,Sikasso,Bougouni,Cercle De Bougouni,69750,458546,233116,225430
+ML-3-KA,Sikasso,Kadiolo,Cercle De Kadiolo,42810,243411,117965,125446
+ML-3-KB,Sikasso,Kolondiéba,Cercle De Kolondieba,30079,201462,103646,97816
+ML-3-KO,Sikasso,Koutiala,Cercle De Koutiala,85147,580453,296185,284268
+ML-3-YA,Sikasso,Yanfolila,Cercle De Yanfolila,32355,212717,107446,105271
+ML-3-YO,Sikasso,Yorosso,Cercle De Yorosso,33835,211606,107146,104460
+ML-4-SC,Ségou,Ségou Cercle,Cercle De Segou,113672,696115,351732,344383
+ML-4-BA,Ségou,Baraoueli,Cercle De Baraoueli,34460,202866,102752,100114
+ML-4-BL,Ségou,Bla,Cercle De Bla,43312,283678,145478,138200
+ML-4-MA,Ségou,Macina,Cercle De Macina,40826,236077,120225,115852
+ML-4-NI,Ségou,Niono,Cercle De Niono,59080,364871,183496,181375
+ML-4-SA,Ségou,San,Cercle De San,55481,333613,167920,165693
+ML-4-TO,Ségou,Tominian,Cercle De Tominian,40857,221129,110081,111048
+ML-5-MC,Mopti,Mopti Cercle,Cercle De Mopti,67897,368905,185879,183026
+ML-5-BA,Mopti,Bandiagara,Cercle De Bandiagara,61159,313456,161913,151543
+ML-5-BS,Mopti,Bankass,Cercle De Bankass,44498,264776,132586,132190
+ML-5-DJ,Mopti,Djenné,Cercle De Djenne,42924,208413,105673,102740
+ML-5-DO,Mopti,Douentza,Cercle De Douentza,47795,246625,121931,124694
+ML-5-KO,Mopti,Koro,Cercle De Koro,61209,362587,183987,178600
+ML-5-TE,Mopti,Tenenkou,Cercle De Tenenkou,32697,162924,82706,80218
+ML-5-YO,Mopti,Youwarou,Cercle De Youwarou,20573,108523,54525,53998
+ML-6-TC,Tombouctou,Tombouctou Cercle,Cercle De Tombouctou,22214,127328,62127,65201
+ML-6-DI,Tombouctou,Diré,Cercle De Dire,19314,109661,55083,54578
+ML-6-GO,Tombouctou,Goudam,Cercle De Goundam,28730,151329,76031,75298
+ML-6-GR,Tombouctou,Gourma-Rharous,Cercle De Gourma Rharous,19120,111033,56507,54526
+ML-6-NI,Tombouctou,Niafunké,Cercle De Niafunke,32284,175442,87473,87969
+ML-7-GC,Tombouctou,Gao Cercle,Cercle De Gao,38414,239535,119509,120026
+ML-7-AN,Tombouctou,Ansongo,Cercle De Ansongo,21966,131953,65745,66208
+ML-7-BO,Tombouctou,Bourem,Cercle De Bourem,20317,116360,59757,56603
+ML-7-ME,Tombouctou,Menaka,Cercle De Menaka,9508,54456,25674,28782
+ML-8-KC,Kidal,Kidal Cercle,Cercle De Kidal,6103,33466,15437,18029
+ML-8-AB,Kidal,Abeibara,Cercle De Abeibara,1796,10296,4808,5488
+ML-8-TE,Kidal,Tessalit,Cercle De Tessalit,3107,15955,7531,8424
+ML-8-TI,Kidal,Tin-Essako,Cercle De Tin Essako,1637,8022,3628,4394
+ML-BKO,Kidal,Bamako,District De Bamako,286381,1810366,902723,907643
+,,,,,,,
+Source:,,"National Institute of Statistics, Mali",,,,,
+Download URL:,,http://mali.opendataforafrica.org/thcqesc/population-statistics-of-mali-2009,,,,,
